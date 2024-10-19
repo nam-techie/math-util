@@ -1,3 +1,5 @@
+[![Math Utility Project (CI included) Phương Nam](https://github.com/nam-techie/math-util/actions/workflows/ci-script.yml/badge.svg)](https://github.com/nam-techie/math-util/actions/workflows/ci-script.yml)
+
 # Math Utility (Maven project)
 
 ## Welcome to Math Utility project
