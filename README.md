@@ -8,6 +8,9 @@
 * A CI (Continuous Integration) script
 * 
 
+## Screen-shots
+![JUnit with Maven](https://github.com/nam-techie/math-util/blob/main/screenshots/JUnit%20with%20Maven.png)
+
 #### &#169; 2024 nam-techie
  
 
